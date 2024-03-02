@@ -1,6 +1,5 @@
-function dados = ImportarDados(numFich)
-path = "archive\data\03\";
-constantPath = "_03_0.wav";
+path = "C:\Users\joaog\OneDrive\Documentos\MATLAB\44\";
+constantPath = "_44_0.wav";
 dados = cell(1,numFich);
 
 for num = 0:numFich-1
